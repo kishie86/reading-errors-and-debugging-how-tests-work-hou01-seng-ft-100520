@@ -1,4 +1,4 @@
-first_number = first_number.to_i
+first_number = 2 
 second_number = second_number.to_f
 sum = first_number + second_number
 difference = first_number - second_number
